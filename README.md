@@ -4,4 +4,4 @@ Lab 01 – Thiết lập môi trường & Quản lý dự án trên GitHub
  Họ tên: Đường Xuân Đô
  MSSV: N23DCPT013
  Lớp: D23CQPT01-N
- Môn học: Quản lý dự án phần mềm
+ Môn học: Nhập môn công phần mềm
